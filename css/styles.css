@@ -1,0 +1,27 @@
+.intro {
+  text-align: center;
+}
+
+.sidebar {
+  float: right;
+  background-color: yellow;
+  color: red;
+  width: 40%;
+}
+
+.right {
+  background-color: teal;
+  float: left;
+  color: blue;
+  width: 50%;
+}
+
+.left {
+  float: right;
+  width: 30%;
+  background-color: pink;
+}
+
+.sing {
+  height: 426px;
+}
