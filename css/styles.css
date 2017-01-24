@@ -26,12 +26,28 @@
   height: 426px;
 }
 
-.column {
+.column01 {
   width: 33%;
   float: left;
   text-align: center;
+  background-color: orange;
+}
+
+.column02 {
+  width: 33%;
+  float: left;
+  text-align: center;
+  background-color: lightblue;
+}
+
+.column03 {
+  width: 33%;
+  float: left;
+  text-align: center;
+  background-color: lime;
 }
 
 .latest {
   width: 200px;
+  padding: 5px;
 }
