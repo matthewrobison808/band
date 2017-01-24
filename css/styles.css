@@ -25,3 +25,13 @@
 .sing {
   height: 426px;
 }
+
+.column {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+
+.latest {
+  width: 200px;
+}
